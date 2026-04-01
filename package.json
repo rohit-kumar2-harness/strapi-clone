@@ -162,7 +162,7 @@
     "prettier": "3.3.3",
     "prettier-2": "npm:prettier@^2",
     "qs": "6.11.1",
-    "rimraf": "5.0.5",
+    "rimraf": "5.0.10",
     "rollup": "4.27.4",
     "rollup-plugin-html": "0.2.1",
     "semver": "7.5.4",
