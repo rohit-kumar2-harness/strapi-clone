@@ -36,7 +36,7 @@
     "@docusaurus/preset-classic": "3.9.2",
     "@docusaurus/theme-mermaid": "3.9.2",
     "@mdx-js/react": "^3.0.0",
-    "clsx": "^1.1.1",
+    "clsx": "1.714.019",
     "prism-react-renderer": "^2.4.1",
     "react": "18.3.0",
     "react-dom": "18.3.0"
