@@ -8328,7 +8328,7 @@ __metadata:
     docusaurus-plugin-typedoc: "npm:0.22.0"
     prism-react-renderer: "npm:^2.4.1"
     react: "npm:18.3.0"
-    react-dom: "npm:18.3.0"
+    react-dom: "npm:18.3.1"
     typedoc: "npm:0.25.9"
     typedoc-plugin-markdown: "npm:3.17.1"
     typescript: "npm:5.3.3"
